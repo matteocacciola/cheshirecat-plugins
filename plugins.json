@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mistral OCR",
+    "url": "https://github.com/matteocacciola/cc_mistral_ocr"
+  },
+  {
+    "name": "Catcloak",
+    "url": "https://github.com/matteocacciola/catcloak"
+  },
+  {
+    "name": "Catnesina",
+    "url": "https://github.com/matteocacciola/catnesina"
+  },
+  {
+    "name": "Rate Limiter",
+    "url": "https://github.com/matteocacciola/rate-limiter"
+  },
+  {
+    "name": "Hybrid Search",
+    "url": "https://github.com/matteocacciola/cc_hybrid_search"
+  },
+  {
+    "name": "Cheshire Cat Prompt Settings",
+    "url": "https://github.com/matteocacciola/cc_prompt_settings"
+  },
+  {
+    "name": "C.A.T. - Cat Advanced Tools",
+    "url": "https://github.com/matteocacciola/cat_advanced_tools"
+  },
+  {
+    "name": "Hypothetical Document Embedding",
+    "url": "https://github.com/matteocacciola/ccat_hyde"
+  },
+  {
+    "name": "Guard Plugin",
+    "url": "https://github.com/DEH-RAG/guard-plugin"
+  }
+]
