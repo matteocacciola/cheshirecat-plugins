@@ -34,5 +34,9 @@
   {
     "name": "Guard Plugin",
     "url": "https://github.com/DEH-RAG/guard-plugin"
+  },
+  {
+    "name": "Scrapy Cat",
+    "url": "https://github.com/matteocacciola/cc_scrapycat"
   }
 ]
