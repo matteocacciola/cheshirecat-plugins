@@ -1,7 +1,7 @@
 [
   {
     "name": "Grinning Cat Plus",
-    "url": "https://github.com/matteocacciola/grinning_cat_plus"
+    "url": "https://github.com/matteocacciola/grinning-cat-plus"
   },
   {
     "name": "Mistral OCR",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Email Monitoring Plugin",
-    "url": "https://github.com/matteocacciola/ccat_email_monitoring"
+    "url": "https://github.com/matteocacciola/ccat-email-monitoring"
   },
   {
     "name": "Cat Podcast Finder",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Cat With Google Drive",
-    "url": "https://github.com/matteocacciola/cat_with_google_drive"
+    "url": "https://github.com/matteocacciola/cat-with-google-drive"
   },
   {
     "name": "Wonderland Weather",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Grinning Cat Ollama",
-    "url": "https://github.com/matteocacciola/grinning_cat_ollama"
+    "url": "https://github.com/matteocacciola/grinning-cat-ollama"
   },
   {
     "name": "Cat Alog",
@@ -102,5 +102,9 @@
   {
     "name": "Agent Skills Plugin for Grinning Cat",
     "url": "https://github.com/matteocacciola/cat-agent-skills-plugin"
+  },
+  {
+    "name": "Grinning Cat Weaviate",
+    "url": "https://github.com/matteocacciola/grinning-cat-weaviate"
   }
 ]
