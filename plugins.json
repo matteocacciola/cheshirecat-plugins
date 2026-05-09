@@ -1,39 +1,39 @@
 [
   {
     "name": "Grinning Cat Plus",
-    "url": "https://github.com/matteocacciola/grinning-cat-plus"
+    "url": "https://github.com/Grinning-Cat-RAG/grinning-cat-plus"
   },
   {
     "name": "Mistral OCR",
-    "url": "https://github.com/matteocacciola/cc_mistral_ocr"
+    "url": "https://github.com/Grinning-Cat-RAG/cc_mistral_ocr"
   },
   {
     "name": "Catcloak",
-    "url": "https://github.com/matteocacciola/catcloak"
+    "url": "https://github.com/Grinning-Cat-RAG/catcloak"
   },
   {
     "name": "Catnesina",
-    "url": "https://github.com/matteocacciola/catnesina"
+    "url": "https://github.com/Grinning-Cat-RAG/catnesina"
   },
   {
     "name": "Rate Limiter",
-    "url": "https://github.com/matteocacciola/rate-limiter"
+    "url": "https://github.com/Grinning-Cat-RAG/rate-limiter"
   },
   {
     "name": "Hybrid Search",
-    "url": "https://github.com/matteocacciola/cc_hybrid_search"
+    "url": "https://github.com/Grinning-Cat-RAG/cc_hybrid_search"
   },
   {
     "name": "Grinning Cat Prompt Settings",
-    "url": "https://github.com/matteocacciola/cc_prompt_settings"
+    "url": "https://github.com/Grinning-Cat-RAG/cc_prompt_settings"
   },
   {
     "name": "C.A.T. - Cat Advanced Tools",
-    "url": "https://github.com/matteocacciola/cat_advanced_tools"
+    "url": "https://github.com/Grinning-Cat-RAG/cat_advanced_tools"
   },
   {
     "name": "Hypothetical Document Embedding",
-    "url": "https://github.com/matteocacciola/ccat_hyde"
+    "url": "https://github.com/Grinning-Cat-RAG/ccat_hyde"
   },
   {
     "name": "Guard Plugin",
@@ -45,55 +45,55 @@
   },
   {
     "name": "Scrapy Cat",
-    "url": "https://github.com/matteocacciola/cc_scrapycat"
+    "url": "https://github.com/Grinning-Cat-RAG/cc_scrapycat"
   },
   {
     "name": "Email Monitoring Plugin",
-    "url": "https://github.com/matteocacciola/ccat-email-monitoring"
+    "url": "https://github.com/Grinning-Cat-RAG/ccat-email-monitoring"
   },
   {
     "name": "Cat Podcast Finder",
-    "url": "https://github.com/matteocacciola/cat-podcast-finder"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-podcast-finder"
   },
   {
     "name": "Cat With Google Drive",
-    "url": "https://github.com/matteocacciola/cat-with-google-drive"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-with-google-drive"
   },
   {
     "name": "Wonderland Weather",
-    "url": "https://github.com/matteocacciola/cat-wonderland-weather"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-wonderland-weather"
   },
   {
     "name": "ReAct Agent — Grinning Cat Plugin",
-    "url": "https://github.com/matteocacciola/cat-react"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-react"
   },
   {
     "name": "Cat Latest News",
-    "url": "https://github.com/matteocacciola/cat-latest-news"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-latest-news"
   },
   {
     "name": "Grinning Cat ReRanker",
-    "url": "https://github.com/matteocacciola/ccat-reranker"
+    "url": "https://github.com/Grinning-Cat-RAG/ccat-reranker"
   },
   {
     "name": "Cat Search",
-    "url": "https://github.com/matteocacciola/cat-search"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-search"
   },
   {
     "name": "Cat Haloperidol",
-    "url": "https://github.com/matteocacciola/cat-haloperidol"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-haloperidol"
   },
   {
     "name": "Cat With Your Data",
-    "url": "https://github.com/matteocacciola/cat-with-your-data"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-with-your-data"
   },
   {
     "name": "Cat GraphRAG",
-    "url": "https://github.com/matteocacciola/cat-graphrag"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-graphrag"
   },
   {
     "name": "Grinning Cat Ollama",
-    "url": "https://github.com/matteocacciola/grinning-cat-ollama"
+    "url": "https://github.com/Grinning-Cat-RAG/grinning-cat-ollama"
   },
   {
     "name": "Cat Alog",
@@ -101,10 +101,10 @@
   },
   {
     "name": "Agent Skills Plugin for Grinning Cat",
-    "url": "https://github.com/matteocacciola/cat-agent-skills-plugin"
+    "url": "https://github.com/Grinning-Cat-RAG/cat-agent-skills-plugin"
   },
   {
     "name": "Grinning Cat Weaviate",
-    "url": "https://github.com/matteocacciola/grinning-cat-weaviate"
+    "url": "https://github.com/Grinning-Cat-RAG/grinning-cat-weaviate"
   }
 ]
